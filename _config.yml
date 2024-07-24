@@ -1,6 +1,6 @@
 # site settings
-title: Personal portfolio
-subtitle: by Jean de la Croix Shimimana
+title: Portfolio
+subtitle: | Jean de la Croix Shimimana
 email: shimimana01@gmail.com
 description: A portfolio showcasing my projects and skills in various fields of knowledge.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -22,12 +22,12 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
+  GitHub: https://github.com/croixshima
   GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
-  Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
+  Google-Plus: 
+  Instagram: https://www.instagram.com/jdela_croix?igsh=Ymxmc210NWp1M3gz
+  LinkedIn: www.linkedin.com/in/jeandelacroixshimimana
+  Twitter: https://x.com/jdela_croix?t=S_ne2m0IAIuWvCpqJ5RNbA&s=09
   Facebook:
   Slack:
 
