@@ -1,17 +1,17 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+title: Personal portfolio
+subtitle: by Jean de la Croix Shimimana
+email: shimimana01@gmail.com
+description: A portfolio showcasing my projects and skills in various fields of knowledge.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: https://croixshima.github.io/ # the base hostname & protocol for your site
+author: Jean de la Croix Shimimana
+street_address: KN 164 st
+city: Kigali
+state: Rwanda
+zip_code: 00000
+country: Rwanda
+phone: +250787546780
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
