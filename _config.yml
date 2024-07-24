@@ -4,7 +4,7 @@ subtitle: by Jean de la Croix Shimimana
 email: shimimana01@gmail.com
 description: A portfolio showcasing my projects and skills in various fields of knowledge.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: croixshima.github.io # the base hostname & protocol for your site
+url: https://croixshima.github.io/ # the base hostname & protocol for your site
 author: Jean de la Croix Shimimana
 street_address: KN 164 st
 city: Kigali
