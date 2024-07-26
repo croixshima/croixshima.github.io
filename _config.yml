@@ -1,6 +1,6 @@
 # site settings
 title: Portfolio
-subtitle: by Jean de la Croix Shimimana
+subtitle: | Jean de la Croix Shimimana
 email: shimimana01@gmail.com
 description: A portfolio showcasing my projects and skills in various fields of knowledge.
 baseurl: "" # the subpath of your site, e.g. /blog
